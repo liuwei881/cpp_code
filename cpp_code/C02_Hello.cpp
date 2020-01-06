@@ -6,4 +6,5 @@ int main()
 {
 	cout << "Hello, World! I am "
 		<< 8 << " Today!" << endl;
+	return 0;
 }
