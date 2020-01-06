@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/cpp_code/.vs/cpp_code/v16
+/cpp_code/x64/Debug
+/cpp_code/cpp_code.sln
+*.vcxproj
+*.filters
+*.user
