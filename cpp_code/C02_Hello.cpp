@@ -2,9 +2,9 @@
 
 using namespace std;
 
+/*
 int main()
 {
-	cout << "Hello, World! I am "
-		<< 8 << " Today!" << endl;
+	cout << "My Name is liuwei, 36 years old!" << endl;
 	return 0;
-}
+}*/

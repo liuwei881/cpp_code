@@ -9,3 +9,6 @@
 *.vcxproj
 *.filters
 *.user
+/cpp_code/.vs/cpp_code/config
+/cpp_code/test.h
+/cpp_code/test2.h
