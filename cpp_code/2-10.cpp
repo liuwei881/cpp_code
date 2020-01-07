@@ -2,6 +2,7 @@
 #include <vector>
 using namespace std;
 
+/*
 int main()
 {
 	vector<int> v;
@@ -26,4 +27,4 @@ int main()
 	}
 	cout << endl;
 	return 0;
-}
+}*/
